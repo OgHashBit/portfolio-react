@@ -5,14 +5,11 @@
 			"value": [
 				{
 					"id": 1,
-					"title": "Chatbox",
-					"description": "This is an application developed for an in-depth understanding of WebSockets. For the front end, I have used React JS and sockets IO & For the backend, implemented sockets using Express JS.",
-					"projectRoute": "https://chatbox.pranjaljain.me",
-					"githubUrl": "https://github.com/pranjaljain0/chatbox-frontend",
-					"badgeTitle": ["Socket", "ReactJS", "ExpressJS", "HTML", "CSS"],
+					"title": "Website launch",
+					"description": "It all begins with successful launch of website. Information about project, spoilers, claim!",
 					"initialColor": "#56CCF2",
 					"finalColor": "#2F80ED",
-					"language": "C++"
+				
 				},
 				{
 					"id": 2,
